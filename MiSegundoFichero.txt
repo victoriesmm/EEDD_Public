@@ -1,3 +1,2 @@
 Estoy creando un fichero en el repositorio
 Y ahora lo estoy editando
-Y ahora le estoy metiendo cambios desde local
