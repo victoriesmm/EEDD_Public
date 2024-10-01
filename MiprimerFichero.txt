@@ -2,3 +2,4 @@ Estoy creando un fichero en el repositorio
 Y ahora lo estoy editando
 Y ahora le estoy metiendo cambios desde local
 Le voy a poner cambios desde la nube
+Yo que soy Manuel he modificado este fichero
